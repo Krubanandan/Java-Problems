@@ -1,5 +1,6 @@
-// Leetcode 73 Set Matrix Zeroes Medium 11/11/2024 
+
 public class setZero{
+    // Leetcode 73 Set Matrix Zeroes Medium 11/11/2024 
     public void setZeroes(int[][] matrix) {
         int m = matrix.length;        
         int n = matrix[0].length;     

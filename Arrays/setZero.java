@@ -1,3 +1,4 @@
+package arrays;
 
 public class setZero{
     // Leetcode 73 Set Matrix Zeroes Medium 11/11/2024 

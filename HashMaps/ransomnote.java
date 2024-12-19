@@ -1,4 +1,4 @@
-// package hashmaps;
+package hashmaps;
 
 import java.util.HashMap;
 
@@ -31,6 +31,6 @@ public class ransomnote {
 
         boolean result = canConstruct(ransomNote, magazine);
 
-        System.out.println("Can ransom note \"" + ransomNote + "\" be constructed from magazine \"" + magazine + "\"? " + result);
+        System.out.println(result);
     }
 }

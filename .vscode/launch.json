@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": ""
+        },
+
+
+
+
+
+
+
+
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CycleLinkedList",
+            "request": "launch",
+            "mainClass": "CycleLinkedList",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "KthDistinctString",
+            "request": "launch",
+            "mainClass": "KthDistinctString",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "containwater",
+            "request": "launch",
+            "mainClass": "arrays.containwater",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "getAmazon",
+            "request": "launch",
+            "mainClass": "arrays.getAmazon",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "justify",
+            "request": "launch",
+            "mainClass": "arrays.justify",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "setZero",
+            "request": "launch",
+            "mainClass": "arrays.setZero",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "runSum",
+            "request": "launch",
+            "mainClass": "easy.runSum",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "oopsatm.App",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "selectionsort",
+            "request": "launch",
+            "mainClass": "oopsatm.selectionsort",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "ransomnote",
+            "request": "launch",
+            "mainClass": "ransomnote",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "permutation",
+            "request": "launch",
+            "mainClass": "recursion.permutation",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "stringconcant",
+            "request": "launch",
+            "mainClass": "stringconcant",
+            "projectName": "Java_77e6fe05"
+        }
+    ]
+}

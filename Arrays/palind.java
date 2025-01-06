@@ -1,4 +1,6 @@
-class Solution {
+import java.util.*;
+
+public class palind {
     public int countPalindromicSubsequence(String s) {
         HashSet<Character> uniq=new HashSet<>();
         for(char c: s.toCharArray()){

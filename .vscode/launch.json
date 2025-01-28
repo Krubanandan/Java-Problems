@@ -6,18 +6,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "mergeinplace",
+            "request": "launch",
+            "mainClass": "mergeinplace",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "mergesort",
+            "request": "launch",
+            "mainClass": "mergesort",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
             "name": "Launch Java Program",
             "request": "launch",
             "mainClass": ""
         },
-
-
-
-
-
-
-
-
         {
             "type": "java",
             "name": "Current File",

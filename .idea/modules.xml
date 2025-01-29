@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.vscode/.vscode.iml" filepath="$PROJECT_DIR$/.vscode/.vscode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OopsSystem/OopsSystem.iml" filepath="$PROJECT_DIR$/OopsSystem/OopsSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PLACEMENT.iml" filepath="$PROJECT_DIR$/PLACEMENT.iml" />
+    </modules>
+  </component>
+</project>

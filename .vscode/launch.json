@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "tripattern",
+            "request": "launch",
+            "mainClass": "tripattern",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "largesum",
+            "request": "launch",
+            "mainClass": "largesum",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "subsq",
+            "request": "launch",
+            "mainClass": "subsq",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
             "name": "Quicksort",
             "request": "launch",
             "mainClass": "Quicksort",

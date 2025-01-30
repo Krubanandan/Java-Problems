@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "permuteZ",
+            "request": "launch",
+            "mainClass": "permuteZ",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
             "name": "tripattern",
             "request": "launch",
             "mainClass": "tripattern",

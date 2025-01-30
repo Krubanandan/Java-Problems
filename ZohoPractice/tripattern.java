@@ -1,6 +1,6 @@
 public class tripattern {
     public static void main(String[] args) {
-        patternPrint(6);
+        patternPrint(5);
     }
     
     static  void patternPrint(int n){

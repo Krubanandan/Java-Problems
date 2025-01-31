@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "fibo",
+            "request": "launch",
+            "mainClass": "fibo",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "fact",
+            "request": "launch",
+            "mainClass": "fact",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "oneton",
+            "request": "launch",
+            "mainClass": "oneton",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "nextgreate",
+            "request": "launch",
+            "mainClass": "nextgreate",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
             "name": "permuteStr",
             "request": "launch",
             "mainClass": "permuteStr",

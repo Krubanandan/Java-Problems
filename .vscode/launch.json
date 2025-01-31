@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "permuteStr",
+            "request": "launch",
+            "mainClass": "permuteStr",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
             "name": "permuteZ",
             "request": "launch",
             "mainClass": "permuteZ",

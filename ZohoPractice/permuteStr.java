@@ -1,50 +1,38 @@
-import java.util.ArrayList;
-import java.util.List;
-
 public class permuteStr {
-    private void recurPermute(int index, int[] nums, List < List < Integer >> ans) {
-        if (index == nums.length) {
+    private static void recurPermute(int index, char[] arr) {
+        if (index == arr.length) {
             // copy the ds to ans
-            List < Integer > ds = new ArrayList < > ();
-            for (int i = 0; i < nums.length; i++) {
-                ds.add(nums[i]);
-            }
-            ans.add(new ArrayList < > (ds));
+            System.out.println(new String(arr));
             return;
         }
-        for (int i = index; i < nums.length; i++) {
-            swap(i, index, nums);
+        for (int i = index; i < arr.length; i++) {
+            swap(i, index, arr);
             
-            recurPermute(index + 1, nums, ans);
+            recurPermute(index + 1, arr);
             
-            swap(i, index, nums);
+            swap(i, index, arr);
             
         }
     }
-    private void swap(int i, int j, int[] nums) {
-        int t = nums[i];
+    private static void swap(int i, int j, char[] nums) {
+        char t = nums[i];
         nums[i] = nums[j];
         nums[j] = t;
     }
-    public List < List < Integer >> permute(int[] nums) {
-        List < List < Integer >> ans = new ArrayList < > ();
-        recurPermute(0, nums, ans);
-        return ans;
+
+    
+    public static void permute(String str) {
+        char[] arr=str.toCharArray();
+        recurPermute(0, arr);
+        
     }
 
 
 
     public static void main(String[] args) {
-        int nums[] = {1,2,3,4};
-        permuteZ sol = new permuteZ();
-        List < List < Integer >> ls = sol.permute(nums);
-        System.out.println("All Permutations are");
-        for (int i = 0; i < ls.size(); i++) {
-            for (int j = 0; j < ls.get(i).size(); j++) {
-                System.out.print(ls.get(i).get(j) + " ");
-            }
-            System.out.println();
-        }
+        String s="abc";
+        permute(s);
+
     }
     
 }

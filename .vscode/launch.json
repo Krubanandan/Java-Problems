@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LongestString",
+            "request": "launch",
+            "mainClass": "LongestString",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "LongestPalindrome",
+            "request": "launch",
+            "mainClass": "LongestPalindrome",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "NewClass",
+            "request": "launch",
+            "mainClass": "oops.NewClass",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "greeting",
+            "request": "launch",
+            "mainClass": "packages.greeting",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "packages.Main",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "trees",
+            "request": "launch",
+            "mainClass": "trees",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "linkedlist",
+            "request": "launch",
+            "mainClass": "linkedlist",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "pascaltri",
+            "request": "launch",
+            "mainClass": "pascaltri",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
             "name": "fibo",
             "request": "launch",
             "mainClass": "fibo",

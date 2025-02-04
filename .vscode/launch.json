@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "abcDigit",
+            "request": "launch",
+            "mainClass": "abcDigit",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "ttff",
+            "request": "launch",
+            "mainClass": "ttff",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
             "name": "LongestString",
             "request": "launch",
             "mainClass": "LongestString",

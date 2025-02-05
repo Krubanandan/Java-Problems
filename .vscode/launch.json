@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "colorTriangle",
+            "request": "launch",
+            "mainClass": "colorTriangle",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
             "name": "abcDigit",
             "request": "launch",
             "mainClass": "abcDigit",

@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "IntRoman",
+            "request": "launch",
+            "mainClass": "IntRoman",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "RomanInt",
+            "request": "launch",
+            "mainClass": "RomanInt",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "Pascal",
+            "request": "launch",
+            "mainClass": "practice.Pascal",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "Brake",
+            "request": "launch",
+            "mainClass": "practabstract.Brake",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "CheckAbs",
+            "request": "launch",
+            "mainClass": "practabstract.CheckAbs",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "practabstract.Main",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "StaticEx",
+            "request": "launch",
+            "mainClass": "practice.StaticEx",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "CustomArrayList",
+            "request": "launch",
+            "mainClass": "practice.CustomArrayList",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "practice.Main",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "InfiLoop",
+            "request": "launch",
+            "mainClass": "InfiLoop",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "Permutes",
+            "request": "launch",
+            "mainClass": "Permutes",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
             "name": "colorTriangle",
             "request": "launch",
             "mainClass": "colorTriangle",

@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "seconds2l",
+            "request": "launch",
+            "mainClass": "seconds2l",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "seconds2l",
+            "request": "launch",
+            "mainClass": "tcs.seconds2l",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
+            "name": "BST",
+            "request": "launch",
+            "mainClass": "BST",
+            "projectName": "Java_77e6fe05"
+        },
+        {
+            "type": "java",
             "name": "MergeSort",
             "request": "launch",
             "mainClass": "MergeSort",
